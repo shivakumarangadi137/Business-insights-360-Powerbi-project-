@@ -18,3 +18,5 @@ Insights:
 5)Revenue contribution , Market share and other important key metrics are presented in the executive view for the stakeholders.
 
 https://www.linkedin.com/posts/shivakumar-angadi_dataanlysis-datadrivendescision-powerbi-activity-7196155863202418690-mBoA?utm_source=share&utm_medium=member_desktop
+
+Powerbi Link:https://app.powerbi.com/view?r=eyJrIjoiZjQ0ODZkNzEtNjNjNS00ZjMxLTg3ZDgtNjVkNzk3NzllNjgzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
